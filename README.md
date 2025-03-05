@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Estudante de Ciência da Computação na UNiversidade Federal de Sergipe, apaixonada por tecnologia e desenvolvimento de software. Estou sempre explorando novas linguagens, frameworks e conceitos para aprimorar minhas habilidades.</p>
+<p align="left">Olá! Sou estudante de Ciência da Computação na Universidade Federal de Sergipe. Apaixonada por tecnologia e desenvolvimento de software. Estou sempre explorando novas linguagens, frameworks e conceitos para aprimorar minhas habilidades.</p>
 
 ###
 
